@@ -1,0 +1,15 @@
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+langchain
+transformers
+sentence-transformers
+langdetect
+pypdf
+pdfminer.six
+tiktoken
+numpy
+pandas
+requests
+scikit-learn
